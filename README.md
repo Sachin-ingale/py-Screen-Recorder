@@ -13,7 +13,7 @@ A simple screen recording application built using Python and Tkinter.
 ## Demo
 -------
 
-https://github.com/user-attachments/assets/2bd42eb5-0d55-4f67-bd90-21b6c80ee331
+https://github.com/user-attachments/assets/6a69e575-fd2e-4079-b435-32f365564e70
 
 
 ## Features
