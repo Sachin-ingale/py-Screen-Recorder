@@ -10,13 +10,6 @@ A simple screen recording application built using Python and Tkinter.
 <img width="960" alt="screen-recorder-app" src="https://github.com/user-attachments/assets/95f6c39e-30b1-48cd-bf89-f8112875b7f2">
 
 
-## Demo
--------
-
-[https://github.com/user-attachments/assets/6a69e575-fd2e-4079-b435-32f365564e70](https://github.com/user-attachments/assets/68da4b1a-2771-42c2-8b86-7f78598b6f0f
-)
-
-
 ## Features
 -----------
 
